@@ -1,0 +1,64 @@
+*{
+	margin : 0;
+	padding : 0;
+	font-family: serif;
+}
+.top-head{
+	float: right;
+	margin-top: 18px;
+	padding-right: 20px;
+}
+.navbar{
+	background: linear-gradient(57deg, #00c6a7, #1e4d92);
+	display: flex;
+}
+.nav-link{
+	color: #ffffff;
+	font-size: 19px;
+	margin-right: 25px;
+	text-transform: uppercase;
+}
+.navbar-brands{
+	color: #27c96d;
+	font-size: 30px;
+	text-decoration: none;
+}
+.navbar-brands:hover{
+	color: blue;
+	text-decoration: none;
+	cursor: pointer; 
+}
+/*----------------------------------*/
+
+h1{
+	text-align: center;
+	margin: 10px;
+}
+p{
+	font-size: 24px;
+	color: grey;
+	margin-bottom: 20px;
+	text-align: center;
+}
+.p-div{
+	border: 1px solid grey;
+	background: darkgrey;
+	padding: 5px;
+	border-radius: 5px;
+	color: #fff;
+	font-size: 20px;
+	margin-bottom: 20px;
+}
+.python-img{
+	width: 100%;
+	height: auto;
+}
+.quizform{
+	background: #efefef;
+}
+#submit{
+	font-size: 18px;
+}
+ol{
+	padding-left: 20px;
+}

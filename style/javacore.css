@@ -1,0 +1,87 @@
+*{
+	margin : 0;
+	padding : 0;
+	font-family: serif;
+}
+
+.top-head{
+	float: right;
+	margin-top: 18px;
+	padding-right: 20px;
+}
+.navbar{
+	background: linear-gradient(57deg, #00c6a7, #1e4d92);
+	display: flex;
+
+}
+.nav-link{
+	color: #ffffff;
+	font-size: 19px;
+	margin-right: 25px;
+	text-transform: uppercase;
+}
+.navbar-brands{
+	color: #27c96d;
+	font-size: 30px;
+}
+.navbar-brands:hover{
+	color: blue;
+	text-decoration: none;
+	cursor: pointer; 
+}
+/*========================After nav=======================*/
+h5{
+	color: #0f3e68;
+}
+h6{padding-left: 7%;}
+
+th{
+	padding-top: 12px;
+}
+
+
+.main-left{height: auto; width: 67%; float:left;} 
+.left-table{float: left;}
+.right-table{float: left;margin-left: 120px;}
+
+
+.main-right{width: 32%;float: right;background-color: whitesmoke; margin-bottom: 15px;}
+/*.hr-iterview{text-decoration: none; font-size: 17px;}*/
+.main-right2{width: 32%; height:300px; float: right;background-color: green; margin-bottom: 15px;}
+.ads1{width: 100%;height: auto;}
+/*----------------------------------------*/
+
+.content{
+	/*background: orange;*/
+	/*height: 400px;*/
+	padding-top:20px;
+	letter-spacing: 1px;
+	 
+}
+p{
+	/*margin-bottom: 100px;*/
+	padding-bottom: 10px;
+	padding-left:25px;
+	font-size: 18px;
+	font-family: 'Heebo', sans-serif;
+}
+/*li{
+	padding-bottom: 8px;
+	padding-left:30px;
+}*/
+ul{
+	padding-left:20px;
+}
+
+
+
+
+.footer-div{float: left; width: 100%; text-align: center;margin-top:30px;}
+
+
+
+
+
+
+
+

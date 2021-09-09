@@ -1,0 +1,120 @@
+*{
+	margin : 0;
+	padding : 0;
+	font-family: serif;
+}
+.top-head{
+	float: right;
+	margin-top: 18px;
+	padding-right: 20px;
+}
+.navbar{
+	background: linear-gradient(57deg, #00c6a7, #1e4d92);
+	display: flex;
+}
+.nav-link{
+	color: #ffffff;
+	font-size: 19px;
+	margin-right: 25px;
+  text-transform: uppercase;
+}
+.navbar-brands{
+	color: #27c96d;
+	font-size: 30px;
+}
+.navbar-brands:hover{
+  color: blue;
+  text-decoration: none;
+  cursor: pointer; 
+}
+/*==============================Cards=====================*/
+h3{
+	padding-top: 7px;
+}
+.cards{
+	width: 100px;height:100px;margin: 0px 6px;
+}
+/*----------------MNC Job Search-------------*/
+.Search {
+  width: 30%;
+  font-size: 18px;
+  padding: 10px;
+  border: 1px solid darkgrey;
+  border-radius: 5px;
+}
+.dropdown{
+  display: inline-flex;
+  margin-left: -20px;
+  /*background-color: red;*/
+}
+
+/*======================After Search================*/
+.left-filter{width: 100px;background-color: lightgrey;}
+
+/* Style the navigation menu */
+#myMenu {
+  list-style-type: none;
+}
+
+/* Style the navigation links */
+#myMenu li a {
+  padding: 12px;
+  text-decoration: none;
+  color: black;
+  display: block
+}
+
+#myMenu li a:hover {
+  background-color: #eee;
+}
+.right{
+	width: 90%;
+  background-color: #efefef;
+  padding-left: 10px;
+}
+/*====================================*/
+/* Dropdown Button */
+/*.dropbtn {
+  background-color: #3498DB;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}*/
+
+/* Dropdown button on hover & focus */
+/*.dropbtn:hover, .dropbtn:focus {
+  background-color: #2980B9;
+}*/
+
+/* The container <div> - needed to position the dropdown content */
+/*.dropdown {
+  position: relative;
+  display: inline-block;
+}*/
+
+/* Dropdown Content (Hidden by Default) */
+/*.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}*/
+
+/* Links inside the dropdown */
+/*.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}*/
+
+/* Change color of dropdown links on hover */
+/*.dropdown-content a:hover {background-color: #ddd}*/
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+/*.show {display:block;}*/
+.footer-div{float: left; width: 100%; text-align: center; padding-top:25px}

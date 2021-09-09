@@ -1,0 +1,23 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;	
+}
+.container{
+	width: 100vw;
+	height: 100vh;
+	background: #7ed6df;
+	position: relative;
+}
+.loginform{
+		width: 40vw;
+		height: 40vh;
+		background: #c7ecee;
+		position: absolute;
+		left: 50%;
+		top: 50%;
+		transform: translate(-50%, -50%);
+		align-content: center;
+		justify-content: center;
+		text-align: center;
+	}
